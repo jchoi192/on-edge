@@ -10,5 +10,21 @@ main {
 
 footer {
     padding-top: 0;
-    text-align: center;
+    text-align: right;
+}
+
+.nav-wrapper {
+    background-color: blueviolet;
+}
+
+.page-footer {
+    background-color: blueviolet;
+}
+
+.heading{
+    font-weight: bold;
+}
+
+.card-title {
+    color: blueviolet;
 }
