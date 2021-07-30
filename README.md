@@ -34,7 +34,13 @@ An online learning tool that provides a platform for teachers and students to co
 ![wireframe]()
 
 ## Future Enhancements
-- 
+- Mobile Responsiveness
+- Allow a teacher to upload a file as attachment to an assignment
 
 ## Unsolved Problems
-- 
+- Connecting students to a the student profile
+- Allowing a teacher user to upload their photo
+
+## Biggest Challenge
+- Creating two different profile types
+- Git workflow (migrations)
