@@ -21,13 +21,13 @@ An online learning tool that provides a platform for teachers and students to co
 [Click Here](https://trello.com/b/ILQukgDu/onedge) to see our Trello Board
 
 ## Initial Wireframes
-![wireframe](https://imgur.com/a/4FJWfzR)
-![wireframe](https://imgur.com/EvOhB1f)
-![wireframe](https://imgur.com/CZKfbZD)
-![wireframe](https://imgur.com/kbW0pcp)
+![wireframe]('./main_app/public/images/onedge_login_wireframe.png)
+![wireframe]('./main_app/public/images/onedge_signup_wireframe.png)
+![wireframe]('./main_app/public/images/onedge_student_dashboard_wireframe.png)
+![wireframe]('./main_app/public/images/onedge_teacher_dashboard_wireframe.png)
 
 ## ERDs
-![wireframe](https://imgur.com/wTNGP7o)
+![wireframe]('./main_app/public/images/onedge_ERD.jpg)
 
 ## Screenshots
 ![wireframe]()
