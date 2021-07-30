@@ -21,10 +21,10 @@ An online learning tool that provides a platform for teachers and students to co
 [Click Here](https://trello.com/b/ILQukgDu/onedge) to see our Trello Board
 
 ## Initial Wireframes
-![wireframe]('./main_app/public/images/onedge_login_wireframe.png)
-![wireframe]('./main_app/public/images/onedge_signup_wireframe.png)
-![wireframe]('./main_app/public/images/onedge_student_dashboard_wireframe.png)
-![wireframe]('./main_app/public/images/onedge_teacher_dashboard_wireframe.png)
+![wireframe](./main_app/public/images/onedge_login_wireframe.png)
+![wireframe](./main_app/public/images/onedge_signup_wireframe.png)
+![wireframe](./main_app/public/images/onedge_student_dashboard_wireframe.png)
+![wireframe](./main_app/public/images/onedge_teacher_dashboard_wireframe.png)
 
 ## ERDs
 ![wireframe]('./main_app/public/images/onedge_ERD.jpg)
