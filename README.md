@@ -31,7 +31,7 @@ An online learning tool that provides a platform for teachers and students to co
 ![wireframe](./main_app/public/images/onedge_student_detail_wireframe.png)
 
 ## ERDs
-![wireframe](./main_app/public/images/onedge_ERD.jpg)
+![wireframe](./main_app/public/images/onedge_ERD.jpeg)
 
 ## Screenshots
 ![wireframe](./main_app/public/images/onedge_about.png)
