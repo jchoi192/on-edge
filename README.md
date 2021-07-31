@@ -3,7 +3,7 @@
 An online learning tool that provides a platform for teachers and students to communicate effectively with each other.
 
 ## Getting Started
-[Click Here](https://onedge-app.herokuapp.com/) to get started on Heroku
+[Click Here](https://onedgeweb.herokuapp.com/) to get started on Heroku
 
 ## Technologies
 - Python
