@@ -21,9 +21,6 @@ An online learning tool that provides a platform for teachers and students to co
 [Click Here](https://trello.com/b/ILQukgDu/onedge) to see our Trello Board
 
 ## Initial Wireframes
-<img src="(./main_app/public/images/onedge_about_wireframe.png)" alt="drawing" width="200"/>
-
-
 ![wireframe](./main_app/public/images/onedge_about_wireframe.png)
 ![wireframe](./main_app/public/images/onedge_login_wireframe.png)
 ![wireframe](./main_app/public/images/onedge_signup_wireframe.png)
