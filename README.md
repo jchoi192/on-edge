@@ -3,7 +3,7 @@
 An online learning tool that provides a platform for teachers and students to communicate effectively with each other.
 
 ## Getting Started
-[Click Here](https://onedge-app.herokuapp.com/) to get started on Heroku
+[Click Here](https://onedgeweb.herokuapp.com/) to get started on Heroku
 
 ## Technologies
 - Python
@@ -21,17 +21,26 @@ An online learning tool that provides a platform for teachers and students to co
 [Click Here](https://trello.com/b/ILQukgDu/onedge) to see our Trello Board
 
 ## Initial Wireframes
-![wireframe]()
-![wireframe]()
-![wireframe]()
+![wireframe](./main_app/public/images/onedge_about_wireframe.png)
+![wireframe](./main_app/public/images/onedge_login_wireframe.png)
+![wireframe](./main_app/public/images/onedge_signup_wireframe.png)
+![wireframe](./main_app/public/images/onedge_teacher_dashboard_wireframe.png)
+![wireframe](./main_app/public/images/onedge_student_dashboard_wireframe.png)
+![wireframe](./main_app/public/images/onedge_create_wireframe.png)
+![wireframe](./main_app/public/images/onedge_edit_wireframe.png)
+![wireframe](./main_app/public/images/onedge_student_detail_wireframe.png)
 
 ## ERDs
-![wireframe]()
+![wireframe](./main_app/public/images/onedge_ERD.jpeg)
 
 ## Screenshots
-![wireframe]()
-![wireframe]()
-![wireframe]()
+![wireframe](./main_app/public/images/onedge_about.png)
+![wireframe](./main_app/public/images/onedge_signup.png)
+![wireframe](./main_app/public/images/onedge_login.png)
+![wireframe](./main_app/public/images/onedge_teacher_dashboard.png)
+![wireframe](./main_app/public/images/onedge_index.png)
+![wireframe](./main_app/public/images/onedge_create.png)
+![wireframe](./main_app/public/images/onedge_detail.png)
 
 ## Future Enhancements
 - Mobile Responsiveness
@@ -43,4 +52,8 @@ An online learning tool that provides a platform for teachers and students to co
 
 ## Biggest Challenge
 - Creating two different profile types
+<<<<<<< HEAD
 - Git workflow (migrations)
+=======
+- Git workflow (migrations)
+>>>>>>> db5e04feaedc6858e304a7ed57f10e88e854a998

@@ -1,21 +1,17 @@
-/* @import url(‘https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap’); */
 
 body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    font-family: 'Advent Pro', sans-serif;
 }
 
 main {
     flex-grow: 1;
-    font-family: 'Advent Pro', sans-serif;
 }
 
 footer {
     padding-top: 0;
     text-align: right;
-    font-family: 'Advent Pro', sans-serif;
 }
 
 .nav-wrapper {
@@ -29,11 +25,8 @@ footer {
 }
 
 .dashHeader, .card-title {
-    /* background-color: black; */
-    /* color: white; */
     margin-bottom: 0;
     border-bottom: 5px solid black;
-    /* padding: 10px; */
 }
 
 .label {
@@ -60,15 +53,12 @@ footer {
 /* current assignment */
 #assigment{
     color:rgb(66, 14, 114);
-    /* font-family: 'Style Script', cursive; */
     text-align: center;
 }
 #card{
-    /* font-family: 'Roboto Mono', monospace; */
     color:slategray;
     display: flex;
     flex-direction: column;
-    /* margin-right: 10rem; */
     margin-left: 1rem;
 }
 
@@ -76,33 +66,27 @@ footer {
 /* class list */
 #list{
     color:rgb(66, 14, 114);
-    /* font-family: 'Style Script', cursive; */
     text-align: center;
 
 }
 
 #classroom{
-    /* font-family: 'Roboto Mono', monospace; */
     color:slategray;
 }
 #room {
     display: flex;
     flex-direction: column;
-    /* margin-right: 10rem; */
 }
 
 /* assignment detail */
 #assdetail{
     color: rgb(186, 209, 132);
-    /* font-family: 'Style Script', cursive; */
     text-align: center;
 }
 
 #asscard{
     display: flex;
     flex-direction: column;
-    /* margin-right: 10rem; */
-    /* font-family: 'Roboto Mono', monospace; */
     color:slategray;
 }
 
@@ -110,21 +94,17 @@ footer {
 .nav-header{
     color:rgb(66, 14, 114);
     text-align: center;
-    /* font-family: 'Style Script', cursive; */
 }
 
 #student_card{
     display:flex;
     flex-direction: column;
-    /* font-family: 'Roboto Mono', monospace; */
     color:slategray;
 }
 
 #list_card{
-    /* width: 30rem; */
     display: flex;
     flex-direction: column;
-    /* left: 14rem;    */
 }
 #button{
     display: flex;
@@ -134,13 +114,11 @@ footer {
 /* student details */
 #stu_detail{
     color:rgb(114, 103, 103);
-    /* font-family: 'Style Script', cursive; */
 }
 
 /* edit student */
 #edit_student{
     color:rgb(66, 14, 114);
-    /* font-family: 'Style Script', cursive; */
 }
 
 #student_name {
@@ -157,14 +135,12 @@ footer {
 
 #delete{
     color:rgb(66, 14, 114);
-    /* font-family: 'Style Script', cursive; */
 
 }
 
 /* edit assignment */
 #edit{
     color: rgb(186, 209, 132);
-    /* font-family: 'Style Script', cursive; */
     text-align: center;
 }
 
@@ -172,12 +148,10 @@ footer {
 /* delete assignment */
 #delete_assignment {
     color: rgb(186, 209, 132);
-    /* font-family: 'Style Script', cursive; */
     text-align: center;
 }
 
 #message {
-    /* font-family: 'Roboto Mono', monospace; */
     color:slategray;
     position:relative; 
     top:2px;
@@ -187,9 +161,7 @@ footer {
 /* add classroom */
 #classro {
     color: rgb(105, 119, 71);
-    /* font-family: 'Style Script', cursive; */
     display: flex;
-    /* position: relative; */
     margin-bottom: 50px;
     left: 20px;
     top: 50px;
@@ -199,16 +171,12 @@ footer {
     display:flex;
     flex-direction: column;
     align-items: center;
-    /* justify-content: center; */
-    /* position: relative; */
     color:slategray;
     font-size: 20px;
     width: 50rem;
-    /* left: 43px; */
 }
 
 /* classroom detail */
-
 #classroom_det {
     display: flex;
     margin-bottom: 50px;
@@ -259,7 +227,6 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    /* justify-content: space-between; */
 }
 
 #authContainer .card {
